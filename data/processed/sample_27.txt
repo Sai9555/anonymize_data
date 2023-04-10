@@ -1,0 +1,10 @@
+Subject: NAME
+DOB: DATE
+
+Progress Note: DATE
+Chief Complaint: Follow-up of acute tonsillitis
+
+Assessment: NAME returned for a follow-up visit. He reported improvement in his symptoms, with no more sore throat or difficulty swallowing. Vital signs are within normal limits.
+
+Plan: Discontinue current medications, advise warm salt water gargles, and schedule a follow-up visit in 1 month.
+

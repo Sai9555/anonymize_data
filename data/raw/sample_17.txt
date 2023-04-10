@@ -1,0 +1,8 @@
+DOB: 08/08/1994
+
+Progress Note: 01/01/2021
+Chief Complaint: Acute tonsillitis and sore throat
+
+Assessment: Olivia presented with a sore throat and difficulty swallowing for the past 2 days. Vital signs are within normal limits. A rapid strep test was positive for Streptococcus pyogenes.
+
+Plan: Prescribe antibiotics, advise warm salt water gargles, and monitor symptoms.

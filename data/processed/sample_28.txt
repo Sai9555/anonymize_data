@@ -1,0 +1,9 @@
+Subject: NAME: DATE
+
+Progress Note: DATE
+Chief Complaint: Acute conjunctivitis and eye redness
+
+Assessment: NAME presented with red and watery eyes for the past 2 days. Vital signs are within normal limits. Physical exam showed evidence of acute conjunctivitis.
+
+Plan: Prescribe antibiotic eye drops, advise warm compresses, and monitor symptoms.
+

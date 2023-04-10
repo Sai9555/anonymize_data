@@ -1,0 +1,21 @@
+Progress Note 1:
+
+Patient Name: Jake Parker
+Date: 2023-02-02
+Time: 9:00 AM
+
+Subjective:
+Jake reports feeling fatigued and experiencing shortness of breath. No changes in appetite or sleep patterns reported.
+
+Objective:
+Vitals: BP: 126/82 mmHg, HR: 80 bpm, RR: 20 breaths/min
+Physical examination: No signs of distress or abnormalities observed
+
+Assessment:
+Possible symptoms of fatigue and shortness of breath
+
+Plan:
+
+Order a pulmonary function test
+Schedule a follow-up appointment in one week
+Advise to get plenty of rest and avoid physical strain

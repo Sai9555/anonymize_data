@@ -1,0 +1,8 @@
+Subject: NAME: DATE
+
+Progress Note: DATE
+Chief Complaint: Acute bronchitis and shortness of breath
+
+Assessment: NAME presented with shortness of breath and a persistent cough for the past 4 days. Vital signs are within normal limits. A chest x-ray showed evidence of acute bronchitis.
+
+Plan: Prescribe antibiotics and bronchodilators, advise rest and hydration, and monitor symptoms.

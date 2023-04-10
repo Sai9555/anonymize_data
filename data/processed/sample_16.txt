@@ -1,0 +1,9 @@
+Subject: NAME: DATE
+
+Progress Note: DATE
+Chief Complaint: Low back pain and stiffness
+
+Assessment: NAME presented with low back pain and stiffness for the past week. Vital signs are within normal limits. Physical exam showed tenderness and spasm in the lumbar spine.
+
+Plan: Prescribe pain medication, advise physical therapy and exercises, and monitor symptoms.
+

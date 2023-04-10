@@ -1,0 +1,33 @@
+Subject: NAME
+DOB: DATE
+
+Progress Note: DATE
+Chief Complaint: Right knee pain
+
+Assessment: NAME presented with right knee pain and swelling for the past week. She reported the pain started after a fall while playing tennis. Physical exam revealed tenderness and swelling over the right knee joint.
+
+Plan: Obtain an X-ray and MRI of the right knee. Administer pain medication and provide a knee brace for support.
+
+Progress Note: DATE
+Chief Complaint: Right knee pain
+
+Assessment: X-ray and MRI results showed a torn meniscus in the right knee. NAME is scheduled for arthroscopic surgery tomorrow.
+
+Plan: Administer pain medication, provide a knee brace, and prepare for surgery.
+
+Progress Note: DATE
+Chief Complaint: Right knee pain
+
+Assessment: NAME underwent successful arthroscopic surgery for her torn meniscus. She is currently in stable condition and is recovering well.
+
+Plan: Administer pain medication, provide a knee brace, and begin physical therapy to improve range of motion and strength in the right knee.
+
+Progress Note: DATE
+Chief Complaint: Right knee pain
+
+Assessment: NAME is walking with a crutch and has minimal pain. She has started physical therapy and is making progress in improving her range of motion and strength in the right knee.
+
+Plan: Continue with physical therapy, administer pain medication as needed, and continue to use a knee brace for support. Schedule a follow-up appointment in 2 weeks to assess progress.
+
+
+

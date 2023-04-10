@@ -1,0 +1,8 @@
+Subject: NAME: DATE
+
+Progress Note: DATE
+Chief Complaint: Follow-up of acute bronchitis
+
+Assessment: NAME returned for a follow-up visit. She reported improvement in her symptoms, with less shortness of breath and occasional cough. Vital signs are within normal limits.
+
+Plan: Continue current medications, advise rest and hydration, and schedule a follow-up visit in 2 weeks.

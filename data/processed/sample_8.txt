@@ -1,0 +1,29 @@
+Subject: NAME: DATE
+
+Progress Note: DATE
+Chief Complaint: Chest pain and shortness of breath
+
+Assessment: NAME presented with chest pain and shortness of breath for the past 2 days. Vital signs are within normal limits. ECG shows normal sinus rhythm with no evidence of acute ischemia.
+
+Plan: Administer aspirin, provide supplemental oxygen, and transfer to the cardiac care unit for further evaluation and management.
+
+Progress Note: DATE
+Chief Complaint: Chest pain and shortness of breath
+
+Assessment: NAME underwent a coronary angiogram that showed a blockage in the left anterior descending coronary artery. He underwent successful angioplasty with stenting. He is currently in stable condition.
+
+Plan: Administer aspirin, continue with supplemental oxygen, monitor vital signs and blood pressure, and start heparin and clopidogrel for anticoagulation.
+
+Progress Note: DATE
+Chief Complaint: Chest pain and shortness of breath
+
+Assessment: NAME's vital signs are stable and within normal limits. He is breathing comfortably without supplemental oxygen. ECG shows normal sinus rhythm with no evidence of ischemia.
+
+Plan: Continue with aspirin, heparin, and clopidogrel. Monitor vital signs and blood pressure. Encourage deep breathing and coughing exercises.
+
+Progress Note: DATE
+Chief Complaint: Chest pain and shortness of breath
+
+Assessment: NAME is feeling much better and has no chest pain or shortness of breath. He is walking around the unit and is able to breathe comfortably without supplemental oxygen.
+
+Plan: Continue with aspirin, heparin, and clopidogrel. Monitor vital signs and blood pressure. Encourage deep breathing and coughing exercises. Discharge with follow-up appointment in 2 weeks.

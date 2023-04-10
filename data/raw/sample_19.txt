@@ -1,0 +1,9 @@
+Subject: Michael Johnson
+DOB: 01/01/1990
+
+Progress Note: 01/01/2021
+Chief Complaint: Acute gastroenteritis and abdominal pain
+
+Assessment: Michael presented with abdominal pain, nausea, and diarrhea for the past 24 hours. Vital signs are elevated and a stool sample showed evidence of a viral infection.
+
+Plan: Prescribe antinausea and antidiarrheal medications, advise fluid replacement and electrolyte balance, and monitor symptoms.

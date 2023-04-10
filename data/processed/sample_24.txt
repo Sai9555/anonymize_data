@@ -1,0 +1,8 @@
+Subject: NAME: DATE
+
+Progress Note: DATE
+Chief Complaint: Acute sinusitis and headache
+
+Assessment: NAME presented with a headache and congestion for the past 4 days. Vital signs are within normal limits. A sinus x-ray showed evidence of acute sinusitis.
+
+Plan: Prescribe antibiotics and decongestants, advise saline nasal rinses, and monitor symptoms.

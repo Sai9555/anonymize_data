@@ -1,0 +1,8 @@
+Subject: NAME: DATE
+
+Progress Note: DATE
+Chief Complaint: Follow-up of acute otitis media
+
+Assessment: NAME returned for a follow-up visit. He reported improvement in his symptoms, with no more ear pain or hearing loss. Vital signs are within normal limits.
+
+Plan: Discontinue current medications, advise warm compresses, and schedule a follow-up visit in 1 month.

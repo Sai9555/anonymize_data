@@ -1,0 +1,19 @@
+Subject: Brian Wilson
+DOB: 07/07/1993
+
+Progress Note: 01/01/2021
+Chief Complaint: Acute sinusitis and headache
+
+Assessment: Brian presented with a headache and congestion for the past 4 days. Vital signs are within normal limits. A sinus x-ray showed evidence of acute sinusitis.
+
+Plan: Prescribe antibiotics and decongestants, advise saline nasal rinses, and monitor symptoms.
+
+Subject: Sophia Kim
+DOB: 05/05/1996
+
+Progress Note: 01/01/2021
+Chief Complaint: Acute conjunctivitis and eye redness
+
+Assessment: Sophia presented with red and watery eyes for the past 2 days. Vital signs are within normal limits. Physical exam showed evidence of acute conjunctivitis.
+
+Plan: Prescribe antibiotic eye drops, advise warm compresses, and monitor symptoms.

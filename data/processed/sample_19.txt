@@ -1,0 +1,8 @@
+Subject: NAME: DATE
+
+Progress Note: DATE
+Chief Complaint: Acute gastroenteritis and abdominal pain
+
+Assessment: NAME presented with abdominal pain, nausea, and diarrhea for the past 24 hours. Vital signs are elevated and a stool sample showed evidence of a viral infection.
+
+Plan: Prescribe NAME and antidiarrheal medications, advise fluid replacement and electrolyte balance, and monitor symptoms.
