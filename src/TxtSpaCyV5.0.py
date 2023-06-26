@@ -143,29 +143,31 @@ def anonymize_file(file_path, output_dir):
 
 
 def main():
-    input_dir = "../data/csv_files"
-    output_dir = "../data/processed_pandas"
+    input_file = "../src/output.csv"  # Path to the output.csv file
+    output_dir = "../data/processed"  # Directory to store the anonymized files
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    files = [os.path.join(input_dir, f) for f in os.listdir(input_dir) if os.path.isfile(os.path.join(input_dir, f))]
-    data = pd.DataFrame({"file_path": files})
+    # Read the output.csv file
+    data = pd.read_csv(input_file)
 
-    # Assign a generic column name
-    data["text"] = data["file_path"].apply(lambda x: pd.read_csv(x, header=None).iloc[0, 0])
+    # Check if the "index" column exists in the DataFrame
+    if "index" not in data.columns:
+        print("Error: 'index' column not found in the CSV file.")
+        return
 
-    with mp.Pool(processes=4) as pool:
-        pool.starmap(anonymize_file, [(f, output_dir) for f in files])
+    # Create a multiprocessing pool with 4 processes
+    pool = mp.Pool(processes=4)
 
-    for file_path in files:
-        anonymized_path = os.path.join(output_dir, os.path.basename(file_path)).replace(".csv", "_anonymized.csv")
-        if os.path.exists(anonymized_path):
-            df = pd.read_csv(anonymized_path)
-            df.to_csv(anonymized_path, index=False)
+    # Map the anonymize_file function to each index in parallel
+    pool.starmap(anonymize_file, [(index, output_dir) for index in data["index"]])
+
+    # Close the pool and wait for the processes to finish
+    pool.close()
+    pool.join()
 
     print("Anonymization complete. Anonymized files saved in the 'processed' directory.")
 
 
 if __name__ == "__main__":
     main()
-

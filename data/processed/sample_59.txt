@@ -1,8 +1,0 @@
-Subject: NAME: DATE
-
-Progress Note: DATE
-Chief Complaint: Follow-up of acute gastritis
-
-Assessment: NAME returned for a follow-up visit. She reported improvement in her symptoms, with less abdominal pain and nausea. Vital signs are within normal limits.
-
-Plan: Continue current medications, advise dietary changes, and schedule a follow-up visit in 2 weeks.

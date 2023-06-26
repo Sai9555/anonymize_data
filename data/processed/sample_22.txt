@@ -1,8 +1,0 @@
-Subject: NAME: DATE
-
-Progress Note: DATE
-Chief Complaint: Acute pharyngitis and sore throat
-
-Assessment: NAME presented with a sore throat and difficulty swallowing for the past 4 days. Vital signs are within normal limits. A rapid strep test was positive for Streptococcus pyogenes.
-
-Plan: Prescribe antibiotics, advise warm salt water gargles, and monitor symptoms.

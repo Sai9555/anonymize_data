@@ -1,8 +1,0 @@
-Subject: NAME: DATE
-
-Progress Note: DATE
-Chief Complaint: Follow-up of acute pharyngitis
-
-Assessment: NAME returned for a follow-up visit. He reported improvement in his symptoms, with no more sore throat or dysphagia. Vital signs are within normal limits.
-
-Plan: Discontinue current medications, advise warm liquids and rest, and schedule a follow-up visit in 1 month.

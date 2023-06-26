@@ -1,8 +1,0 @@
-Subject: NAME: DATE
-
-Progress Note: DATE
-Chief Complaint: Acute bronchial asthma and wheezing
-
-Assessment: NAME presented with wheezing and shortness of breath for the past 2 days. Vital signs are within normal limits. A spirometry showed evidence of acute bronchial asthma.
-
-Plan: Prescribe inhaled corticosteroids and bronchodilators, advise rest and hydration, and monitor symptoms.

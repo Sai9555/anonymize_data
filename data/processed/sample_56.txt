@@ -1,9 +1,0 @@
-Subject: NAME: DATE
-
-Progress Note: DATE
-Chief Complaint: Acute sinusitis and headache
-
-Assessment: NAME presented with a headache and facial pain for the past 4 days. Vital signs are within normal limits. A sinus x-ray showed evidence of acute sinusitis.
-
-Plan: Prescribe antibiotics and decongestants, advise warm compresses, and monitor symptoms.
-

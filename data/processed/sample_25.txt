@@ -1,8 +1,0 @@
-Subject: NAME: DATE
-
-Progress Note: DATE
-Chief Complaint: Follow-up of acute sinusitis
-
-Assessment: NAME returned for a follow-up visit. She reported improvement in her symptoms, with only occasional headaches and less congestion. Vital signs are within normal limits.
-
-Plan: Continue current medications, advise saline nasal rinses, and schedule a follow-up visit in 2 weeks.

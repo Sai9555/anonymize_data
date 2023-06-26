@@ -1,8 +1,0 @@
-Subject: NAME: DATE
-
-Progress Note: DATE
-Chief Complaint: Acute gastritis and abdominal pain
-
-Assessment: NAME presented with abdominal pain and nausea for the past 4 days. Vital signs are within normal limits. An upper GI series showed evidence of acute gastritis.
-
-Plan: Prescribe antacids and antiemetics, advise dietary changes, and monitor symptoms.

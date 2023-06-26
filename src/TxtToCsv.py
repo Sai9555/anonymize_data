@@ -1,28 +1,28 @@
 import os
-import csv
+import pandas as pd
 
+# Step 1: Read your raw text files sequentially
 
-def convert_txt_to_csv(folder_path):
-    # Create a folder for the CSV files
-    csv_folder = os.path.join(folder_path, 'csv_files')
-    os.makedirs(csv_folder, exist_ok=True)
+# Step 2: Declare a variable raw_docs = []
+raw_docs = []
 
-    # Iterate over the text files in the "raw" folder
-    raw_folder = os.path.join(folder_path, 'raw')
-    for file_name in os.listdir(raw_folder):
-        if file_name.endswith('.txt'):
-            txt_file = os.path.join(raw_folder, file_name)
-            csv_file = os.path.join(csv_folder, f"{os.path.splitext(file_name)[0]}.csv")
+# Step 3: Iterate over all raw files in the directory
+raw_directory = '../data/raw'  # Replace '../data/raw' with the actual directory path
 
-            # Convert text file to CSV
-            with open(txt_file, 'r') as txt_file, open(csv_file, 'w', newline='') as csv_file:
-                reader = csv.reader(txt_file, delimiter='\t')
-                writer = csv.writer(csv_file, delimiter=',')
-                writer.writerows(reader)
+for filename in os.listdir(raw_directory):
+    if filename.endswith('.txt'):
+        file_path = os.path.join(raw_directory, filename)
+        with open(file_path, 'r') as f:
+            doc_text = f.read()
+            raw_docs.append(doc_text)
 
-    print('Conversion completed successfully!')
+# Step 4: Create a pandas DataFrame from raw_doc list
+df = pd.DataFrame()
+df['text'] = raw_docs
+df.dropna(inplace=True)
+print(df)
+# Step 5: Save df as CSV
+output_csv = 'output.csv'  # Replace 'output.csv' with your desired file name and path
+df.to_csv(output_csv, index=False)
 
-
-# Example usage
-folder_path = "../data"  # Replace with the path to your folder
-convert_txt_to_csv(folder_path)
+print("CSV file saved successfully!")

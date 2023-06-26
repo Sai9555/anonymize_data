@@ -1,9 +1,0 @@
-Subject: NAME: DATE
-
-Progress Note: DATE
-Chief Complaint: Acute bronchitis and cough
-
-Assessment: NAME presented with a persistent cough and wheezing for the past 2 weeks. Vital signs are within normal limits. A chest x-ray showed evidence of acute bronchitis.
-
-Plan: Prescribe bronchodilators and antibiotics, advise steam inhalation and hydration, and monitor symptoms.
-
